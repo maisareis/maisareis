@@ -21,7 +21,7 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
 - 🔐 Entusiasta e estudante de **Segurança da Informação**  
 - 🎯 Explorando áreas como **redes, análise de tráfego, engenharia social e conscientização digital**  
 - 📚 Participante da **11ª Mentoria CyberSecurityGirls BR** 💜  
-- 🏆 Participei do **CTF Operação Curupira (GoHacking)** – 34ª colocação no meu primeiro desafio CTF  
+- 🏆 Participei do **CTF Operação Curupira (GoHacking)** – 228ª de 1006 participantes  
 - 🎓 Cursos concluídos: *Digital Awareness, Gerenciamento de Ameaças Cibernéticas, entre outros*  
 - 💡 Acredito que a **educação e a prática constante** são fundamentais para fortalecer a segurança digital  
 
