@@ -3,18 +3,28 @@
 Apaixonada por **Segurança da Informação e Cibersegurança**, sempre em busca de novos aprendizados, desafios e oportunidades para aplicar conhecimentos em **redes, sistemas, análise de ameaças e conscientização digital**.  
 Aqui você encontra meus repositórios de estudos, projetos e materiais relacionados à minha jornada na área de **CyberSec**. 🔐
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maisareis&color=blueviolet&style=flat-square&label=Visitantes" alt="Contador de visitantes"/>
+</div>
+
+## 🔭 Atualmente
+
+- 📚 Estudando para a certificação **CompTIA Security+**
+- 💜 Participando da **11ª Mentoria CyberSecurityGirls BR**
+- 🔐 Aprofundando conhecimentos em **análise de tráfego de rede e gestão de ameaças**
+
 ## 📕 Sobre mim
 
 - 🔐 Entusiasta e estudante de **Segurança da Informação**  
 - 🎯 Explorando áreas como **redes, análise de tráfego, engenharia social e conscientização digital**  
-- 📚 Participante da **11ª Mentoria CyberSecurityGirls BR** 💜  
 - 🏆 Participei do **CTF Operação Curupira (GoHacking)** – 228ª de 1006 participantes  
 - 💡 Acredito que a **educação e a prática constante** são fundamentais para fortalecer a segurança digital
 
 ## 🏆 Conquistas & Participações
 
 ![CyberSecurityGirls](https://img.shields.io/badge/CyberSecurityGirls-11%C2%AA%20Mentoria%202025-purple?logo=hackaday&logoColor=white)  
-![GoHacking CTF](https://img.shields.io/badge/GoHacking-CTF%20Opera%C3%A7%C3%A3o%20Curupira%20%7C%20228%C2%AA%20de%201006-red?logo=target&logoColor=white)
+![GoHacking CTF](https://img.shields.io/badge/GoHacking-CTF%20Opera%C3%A7%C3%A3o%20Curupira%20%7C%20228%C2%AA%20de%201006-red?logo=target&logoColor=white)  
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(Em%20prepara%C3%A7%C3%A3o)-orange?logo=comptia&logoColor=white)
 
 ## 🎓 Cursos & Certificações
 
@@ -35,14 +45,19 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
 
 ## 🚀 Tecnologias & Ferramentas
 
+**Segurança & Redes:**  
 ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-blueviolet?logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-orange?logo=amazon-aws&logoColor=white)
+
+**Programação:**  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow)
+
+**Web:**  
 ![HTML](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-orange?logo=amazon-aws&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-blueviolet?logo=cisco&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
@@ -59,20 +74,28 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
   <img src="https://github-profile-trophy.vercel.app/?username=maisareis&theme=dracula&no-frame=true&row=1&column=6" alt="Troféus"/>
 </div>
 
-<details align="center">
-  <summary>📈 Mais Estatísticas</summary>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maisareis&theme=dracula&hide_border=true" alt="Gráfico de Atividade"/>
-</details>
+## 🎯 Objetivos para 2025
 
-## 📫 Contato
+- [ ] Obter a certificação **CompTIA Security+**
+- [ ] Concluir trilha completa CCNA
+- [ ] Participar de mais CTFs e competições de segurança
+- [ ] Contribuir em projetos open source relacionados a cibersegurança
 
-<div>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/maisareisaraujo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+## 📫 Vamos nos conectar?
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maisa_Reis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maisareisaraujo)
+[![Email](https://img.shields.io/badge/Email-Enviar_mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisareisaraujo@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maisareis)
+
 </div>
 
 ---
 
-✨ Obrigada por visitar meu perfil!  
-Vamos juntos construir um futuro mais seguro no mundo digital. 🚀
+<div align="center">
+  
+✨ **Obrigada por visitar meu perfil!**  
+Vamos juntos construir um futuro mais seguro no mundo digital. 🔐
+
+</div>
