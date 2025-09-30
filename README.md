@@ -3,11 +3,21 @@
 Apaixonada por **Segurança da Informação e Cibersegurança**, sempre em busca de novos aprendizados, desafios e oportunidades para aplicar conhecimentos em **redes, sistemas, análise de ameaças e conscientização digital**.  
 Aqui você encontra meus repositórios de estudos, projetos e materiais relacionados à minha jornada na área de **CyberSec**. 🔐
 
-## 📜 Cursos & Certificações  
+  
+## 🎓 Cursos & Certificações
 
-![Cisco](https://img.shields.io/badge/Cisco-Gerenciamento%20de%20Amea%C3%A7as%20Cibern%C3%A9ticas-blue?logo=cisco&logoColor=white)  
-![GoHacking](https://img.shields.io/badge/GoHacking-CTF%20Opera%C3%A7%C3%A3o%20Curupira-green?logo=hackaday&logoColor=white)  
-![Digital Awareness](https://img.shields.io/badge/Digital%20Awareness-Conclu%C3%ADdo-purple?logo=google-chrome&logoColor=white)  
+[![CCNA: Enterprise Networking, Security, and Automation](https://img.shields.io/badge/CCNA-Enterprise%20Networking%2C%20Security%20and%20Automation-blue?logo=cisco&logoColor=white)]()
+[![CCNA: Introduction to Networks](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?logo=cisco&logoColor=white)]()
+[![CCNA: Switching, Routing, and Wireless Essentials](https://img.shields.io/badge/CCNA-Switching%20Routing%20Wireless%20Essentials-blue?logo=cisco&logoColor=white)]()
+[![CyberOps Associate](https://img.shields.io/badge/CyberOps-Associate-blue?logo=cisco&logoColor=white)]()
+[![Cyber Threat Management](https://img.shields.io/badge/Cyber%20Threat-Management-blue?logo=cisco&logoColor=white)]()
+[![Digital Awareness](https://img.shields.io/badge/Digital-Awareness-green?logo=cisco&logoColor=white)]()
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction%20to-Cybersecurity-green?logo=cisco&logoColor=white)]()
+[![Network Security](https://img.shields.io/badge/Network-Security-blue?logo=cisco&logoColor=white)]()
+[![Networking Basics](https://img.shields.io/badge/Networking-Basics-blue?logo=cisco&logoColor=white)]()
+[![Networking Academy Learn-A-Thon 2024](https://img.shields.io/badge/Learn--A--Thon-2024-lightgrey?logo=cisco&logoColor=white)]()
+[![Networking Academy Learn-A-Thon 2025](https://img.shields.io/badge/Learn--A--Thon-2025-lightgrey?logo=cisco&logoColor=white)]()
+ 
 
 ## 🚀 Tecnologias & Ferramentas
 ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white)
