@@ -3,6 +3,12 @@
 Apaixonada por **Segurança da Informação e Cibersegurança**, sempre em busca de novos aprendizados, desafios e oportunidades para aplicar conhecimentos em **redes, sistemas, análise de ameaças e conscientização digital**.  
 Aqui você encontra meus repositórios de estudos, projetos e materiais relacionados à minha jornada na área de **CyberSec**. 🔐
 
+## 📜 Cursos & Certificações  
+
+![Cisco](https://img.shields.io/badge/Cisco-Gerenciamento%20de%20Amea%C3%A7as%20Cibern%C3%A9ticas-blue?logo=cisco&logoColor=white)  
+![GoHacking](https://img.shields.io/badge/GoHacking-CTF%20Opera%C3%A7%C3%A3o%20Curupira-green?logo=hackaday&logoColor=white)  
+![Digital Awareness](https://img.shields.io/badge/Digital%20Awareness-Conclu%C3%ADdo-purple?logo=google-chrome&logoColor=white)  
+
 ## 🚀 Tecnologias & Ferramentas
 ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
