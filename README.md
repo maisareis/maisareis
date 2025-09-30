@@ -6,17 +6,15 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
   
 ## 🎓 Cursos & Certificações
 
-[![CCNA: Enterprise Networking, Security, and Automation](https://img.shields.io/badge/CCNA-Enterprise%20Networking%2C%20Security%20and%20Automation-blue?logo=cisco&logoColor=white)]()
-[![CCNA: Introduction to Networks](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?logo=cisco&logoColor=white)]()
-[![CCNA: Switching, Routing, and Wireless Essentials](https://img.shields.io/badge/CCNA-Switching%20Routing%20Wireless%20Essentials-blue?logo=cisco&logoColor=white)]()
-[![CyberOps Associate](https://img.shields.io/badge/CyberOps-Associate-blue?logo=cisco&logoColor=white)]()
-[![Cyber Threat Management](https://img.shields.io/badge/Cyber%20Threat-Management-blue?logo=cisco&logoColor=white)]()
-[![Digital Awareness](https://img.shields.io/badge/Digital-Awareness-green?logo=cisco&logoColor=white)]()
-[![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction%20to-Cybersecurity-green?logo=cisco&logoColor=white)]()
-[![Network Security](https://img.shields.io/badge/Network-Security-blue?logo=cisco&logoColor=white)]()
-[![Networking Basics](https://img.shields.io/badge/Networking-Basics-blue?logo=cisco&logoColor=white)]()
-[![Networking Academy Learn-A-Thon 2024](https://img.shields.io/badge/Learn--A--Thon-2024-lightgrey?logo=cisco&logoColor=white)]()
-[![Networking Academy Learn-A-Thon 2025](https://img.shields.io/badge/Learn--A--Thon-2025-lightgrey?logo=cisco&logoColor=white)]()
+[![CCNA: Enterprise Networking, Security, and Automation](https://img.shields.io/badge/CCNA-Enterprise%20Networking%2C%20Security%20and%20Automation-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/7f42e6e8-02a3-40d9-94a3-707f39465c8d/public_url)  
+[![CCNA: Introduction to Networks](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/dcba2f7e-dfdc-43ed-8415-b7f7dfe62f33/public_url)  
+[![CCNA: Switching, Routing, and Wireless Essentials](https://img.shields.io/badge/CCNA-Switching%20Routing%20Wireless%20Essentials-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/72aac080-07be-46be-800d-2adfe2810703/public_url)  
+[![CyberOps Associate](https://img.shields.io/badge/CyberOps-Associate-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/55f0f9d3-8340-48b5-b381-f8049c996a4d/public_url)  
+[![Cyber Threat Management](https://img.shields.io/badge/Cyber%20Threat-Management-green?logo=cisco&logoColor=white)](https://www.credly.com/badges/64d5f4df-51ef-464d-b413-ce84f36f4862/public_url)  
+[![Digital Awareness](https://img.shields.io/badge/Digital-Awareness-purple?logo=cisco&logoColor=white)](https://www.credly.com/badges/8c12f0a6-3433-4482-96a1-cade43cf439c/public_url)  
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction%20to-Cybersecurity-green?logo=cisco&logoColor=white)](https://www.credly.com/badges/72caf674-82b6-4e38-840b-0fa2dd78e6dc/public_url)  
+[![Networking Basics](https://img.shields.io/badge/Networking-Basics-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/edf787e6-0187-4080-a388-698bee0b8725/public_url)  
+[![Network Security](https://img.shields.io/badge/Network-Security-blue?logo=cisco&logoColor=white)](https://www.credly.com/badges/19149abe-d67c-4c23-be8e-2d5e9d2b251f/public_url)
  
 
 ## 🚀 Tecnologias & Ferramentas
