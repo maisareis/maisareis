@@ -48,8 +48,22 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisareis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisareis&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisareis&layout=compact&langs_count=8&theme=dracula"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maisareis&theme=dracula" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maisareis&theme=dracula&no-frame=true&row=1&column=6" alt="Troféus"/>
+</div>
+
+<details align="center">
+  <summary>📈 Mais Estatísticas</summary>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maisareis&theme=dracula&hide_border=true" alt="Gráfico de Atividade"/>
+</details>
 
 ## 📫 Contato
 
