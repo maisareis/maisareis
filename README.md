@@ -77,7 +77,6 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
 ## 🎯 Objetivos para 2025
 
 - [ ] Obter a certificação **CompTIA Security+**
-- [ ] Concluir trilha completa CCNA
 - [ ] Participar de mais CTFs e competições de segurança
 - [ ] Contribuir em projetos open source relacionados a cibersegurança
 
