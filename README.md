@@ -17,7 +17,7 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
 
 - 🔐 Entusiasta e estudante de **Segurança da Informação**  
 - 🎯 Explorando áreas como **redes, análise de tráfego, engenharia social e conscientização digital**  
-- 🏆 Participei do **CTF Operação Curupira (GoHacking)** – 228ª de 1006 participantes  
+- 🏆 Participei do **CTF Operação Curupira (GoHacking)** do exercício Guardião Cibernético 7.0 – 228ª de 1006 participantes  
 - 💡 Acredito que a **educação e a prática constante** são fundamentais para fortalecer a segurança digital
 
 ## 🏆 Conquistas & Participações
