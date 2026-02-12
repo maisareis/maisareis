@@ -74,7 +74,7 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
   <img src="https://github-profile-trophy.vercel.app/?username=maisareis&theme=dracula&no-frame=true&row=1&column=6" alt="Troféus"/>
 </div>
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos para 2026
 
 - [ ] Obter a certificação **CompTIA Security+**
 - [ ] Participar de mais CTFs e competições de segurança
