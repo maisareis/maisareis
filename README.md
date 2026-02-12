@@ -10,7 +10,7 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
 ## 🔭 Atualmente
 
 - 📚 Estudando para a certificação **CompTIA Security+**
-- 💜 Participando da 3ª onda do Fundamental  **hackers do Bem**
+- 💜 Participando da 3ª onda do Curso Fundamental  **hackers do Bem**
 - 🔐 Aprofundando conhecimentos em **análise de tráfego de rede e gestão de ameaças**
 
 ## 📕 Sobre mim
