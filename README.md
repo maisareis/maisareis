@@ -59,7 +59,9 @@ Construindo minha base em cibersegurança, um desafio de cada vez. 🔐
 
 ## 📊 Atividade
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maisareis/maisareis/main/dragon.gif" alt="Dragon" width="200"/>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maisareis/maisareis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
