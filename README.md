@@ -1,23 +1,21 @@
 # Olá, eu sou a Maisa 👋
 
-Apaixonada por **Segurança da Informação e Cibersegurança**, sempre em busca de novos aprendizados, desafios e oportunidades para aplicar conhecimentos em **redes, sistemas, análise de ameaças e conscientização digital**.  
-Aqui você encontra meus repositórios de estudos, projetos e materiais relacionados à minha jornada na área de **CyberSec**. 🔐
+Apaixonada por **Cibersegurança**, sempre em busca de novos aprendizados, desafios e oportunidades para aplicar conhecimentos em **redes, sistemas, análise de ameaças e conscientização digital**.
+
+Construindo minha base em cibersegurança, um desafio de cada vez. 🔐
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=maisareis&color=blueviolet&style=flat-square&label=Visitantes" alt="Contador de visitantes"/>
 </div>
 
-## 🔭 Atualmente
+---
+
+## 🔭 Sobre mim
 
 - 📚 Estudando para a certificação **CompTIA Security+**
-- 💜 Participando da 3ª onda do Curso Fundamental  **hackers do Bem**
+- 💜 Participando da 3ª onda do Curso Fundamental **Hackers do Bem**
 - 🔐 Aprofundando conhecimentos em **análise de tráfego de rede e gestão de ameaças**
-
-## 📕 Sobre mim
-
-- 🔐 Entusiasta e estudante de **Segurança da Informação**  
-- 🎯 Explorando áreas como **redes, análise de tráfego, engenharia social e conscientização digital**  
-- 🏆 Participei do **CTF Operação Curupira (GoHacking)** do Exercício Guardião Cibernético 7.0 – 228ª de 1006 participantes  
+- 🎯 Explorando áreas como **redes, engenharia social e conscientização digital**
 - 💡 Acredito que a **educação e a prática constante** são fundamentais para fortalecer a segurança digital
 
 ## 🏆 Conquistas & Participações
@@ -59,19 +57,14 @@ Aqui você encontra meus repositórios de estudos, projetos e materiais relacion
 ![HTML](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisareis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisareis&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=maisareis&theme=dracula" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maisareis&theme=dracula" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maisareis&theme=dracula&no-frame=true&row=1&column=6" alt="Troféus"/>
+  <img src="https://raw.githubusercontent.com/maisareis/maisareis/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ## 🎯 Objetivos para 2026
