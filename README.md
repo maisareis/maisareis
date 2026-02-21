@@ -2,7 +2,9 @@
 
 Apaixonada por **Cibersegurança**, sempre em busca de novos aprendizados, desafios e oportunidades para aplicar conhecimentos em **redes, sistemas, análise de ameaças e conscientização digital**.
 
-Construindo minha base em cibersegurança, um desafio de cada vez. 🔐
+Aqui você encontra meus repositórios de estudos, projetos e materiais relacionados à minha jornada na área de **CyberSec**.
+
+Construindo minha base em cibersegurança, um desafio de cada vez. 💜
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=maisareis&color=blueviolet&style=flat-square&label=Visitantes" alt="Contador de visitantes"/>
@@ -13,10 +15,11 @@ Construindo minha base em cibersegurança, um desafio de cada vez. 🔐
 ## 🔭 Sobre mim
 
 - 📚 Estudando para a certificação **CompTIA Security+**
-- 💜 Participando da 3ª onda do Curso Fundamental **Hackers do Bem**
+- 🌐 Participando da 3ª onda do Curso Fundamental **Hackers do Bem**
 - 🔐 Aprofundando conhecimentos em **análise de tráfego de rede e gestão de ameaças**
 - 🎯 Explorando áreas como **redes, engenharia social e conscientização digital**
 - 💡 Acredito que a **educação e a prática constante** são fundamentais para fortalecer a segurança digital
+- 💜 Com o objetivo de um dia vestir o **Purple Team**
 
 ## 🏆 Conquistas & Participações
 
